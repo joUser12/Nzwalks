@@ -1,0 +1,622 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\migrations\\nzwalksauthdb\\20241219130538_creating auth db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\nzwalksauthdb\\20241219130538_creating auth db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\nzwalks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\nzwalks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\customactionfilters\\validatemodelattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\customactionfilters\\validatemodelattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\updatewalksrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\updatewalksrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\addwalksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\addwalksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\migrations\\20241115122208_shg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\20241115122208_shg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\migrations\\20241229062409_adding image table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\20241229062409_adding image table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|g:\\joy  using folder\\.net\\learn\\nzwalks\\nzwalks.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7EE05-9CFF-440F-B93F-7C42C6D6E643}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NZWalksDbContext.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:20:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241229062409_Adding image table.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Migrations\\20241229062409_Adding image table.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20241229062409_Adding image table.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Migrations\\20241229062409_Adding image table.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20241229062409_Adding image table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T06:24:09.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Image.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T06:16:24.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:20:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:11:01.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NZWalksAuthDbContext.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:25:08.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:09:24.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\AuthController.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:14:37.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\RegionDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\RegionDto.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\RegionDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\RegionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:14:01.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateRegionRequestDto.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:24:16.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:20:42.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Region.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Region.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:41:17.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\LoginRequest.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:46:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:40:25.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\TokenRepository.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\TokenRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:04:51.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeToolTip": "NZWalks.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T09:10:52.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:02:24.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:02:17.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:19:34.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241219130538_Creating Auth Db.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Migrations\\NZWalksAuthDb\\20241219130538_Creating Auth Db.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\NZWalksAuthDb\\20241219130538_Creating Auth Db.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Migrations\\NZWalksAuthDb\\20241219130538_Creating Auth Db.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\NZWalksAuthDb\\20241219130538_Creating Auth Db.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:05:38.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NZWalks.API.http",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\NZWalks.API.http",
+              "RelativeDocumentMoniker": "NZWalks.API\\NZWalks.API.http",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\NZWalks.API.http",
+              "RelativeToolTip": "NZWalks.API\\NZWalks.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-19T12:30:30.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:21:00.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\WeatherForecast.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\WeatherForecast.cs",
+              "RelativeToolTip": "NZWalks.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:11:01.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidateModelAttributes.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\CustomActionFilters\\ValidateModelAttributes.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\CustomActionFilters\\ValidateModelAttributes.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\CustomActionFilters\\ValidateModelAttributes.cs",
+              "RelativeToolTip": "NZWalks.API\\CustomActionFilters\\ValidateModelAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:24:20.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddRegionRequestDto.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:23:28.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateWalksRequestDto.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateWalksRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\UpdateWalksRequestDto.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateWalksRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\UpdateWalksRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:20:12.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddWalksRequest.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\AddWalksRequest.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\AddWalksRequest.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\AddWalksRequest.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\AddWalksRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:22:56.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:36:26.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Walk.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Walk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:23:16.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WalkDto.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\WalkDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\WalkDto.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\WalkDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\WalkDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:14:25.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:49:08.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:01:16.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwDcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:02:56.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:14:29.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:23:46.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DifficultyDto.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:06:46.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241115122208_Shg.cs",
+              "DocumentMoniker": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Migrations\\20241115122208_Shg.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20241115122208_Shg.cs",
+              "ToolTip": "G:\\JOY  USING FOLDER\\.net\\learn\\NZWalks\\NZWalks.API\\Migrations\\20241115122208_Shg.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20241115122208_Shg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:22:08.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
