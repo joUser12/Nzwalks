@@ -3,11 +3,13 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using NZWalks.API.Data;
 using NZWalks.API.Models.Domain;
 using NZWalks.API.Models.DTO;
 using NZWalks.API.Repositories;
 using System.Collections.Generic;
+using System.Text.Json;
 
 namespace NZWalks.API.Controllers
 {
@@ -19,17 +21,22 @@ namespace NZWalks.API.Controllers
         private readonly NZWalksDbContext dbContext;
         private readonly IRegionRepository regionRepository;
         private readonly IMapper mapper;
+        private readonly ILogger<RegionsController> logger;
+        
 
-        public RegionsController(NZWalksDbContext dbContext,IRegionRepository regionRepository, IMapper mapper)
+        public RegionsController(NZWalksDbContext dbContext,IRegionRepository regionRepository, IMapper mapper , ILogger<RegionsController> logger)
         {
             this.dbContext = dbContext;
             this.regionRepository = regionRepository;
             this.mapper = mapper;
+            this.logger = logger;
         }
         [HttpGet]
         [Authorize(Roles = "Reader,Writer")]
         public async Task<IActionResult> GetAll()
         {
+
+            logger.LogInformation("Get all Action Method was invokde");
 
             //Get data from database - domain models
             //var regionsDomain =  await dbContext.Regions.ToListAsync();
@@ -37,6 +44,9 @@ namespace NZWalks.API.Controllers
             var regionsDomain = await regionRepository.GetAllAsync();
 
             //Map Domain Models to DTOS
+
+
+            logger.LogInformation($"Finsh{JsonSerializer.Serialize(regionsDomain)}");
 
             var regionsDto =  mapper.Map<List<RegionDto>>(regionsDomain);
 
